@@ -33,8 +33,6 @@ The hyperparameters were chosen through a grid search over loss functions (Cross
 
 **BreastMNIST:** Training accuracy 0.9872, Validation AUC 0.9524, Validation accuracy 0.8846, Test AUC 0.9121, Test accuracy 0.8526 
 
-**ChestMNIST:** problem occurred during the training process.
-
 
 For the 3D datasets:
 
